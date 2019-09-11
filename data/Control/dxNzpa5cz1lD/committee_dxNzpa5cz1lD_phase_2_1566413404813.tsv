@@ -1,0 +1,11 @@
+	age	education	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_alcohol_sales_on_sundays	policy_strength_budget_for_free_school_lunch_program	policy_strength_increase_budget_for_medicare_coverage	policy_strength_increase_budget_for_veterans_affairs	policy_strength_increase_gun_control_legislation	policy_strength_legalize_medical_marijuana	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p93	54	Law Degree	Otis	Male	p93	378.23222509511885	195.50525193600728	Mcallen	Judge	Democrat	-2	-2	0	2	2	2	1	9	Christian	True		0	54	9
+p34	36	Law Degree	James	Male	p34	18.044441912372903	227.16769550465315	Horn	Judge	Democrat	-2	-1	3	1	1	3	2	7	Christian	True		6	36	7
+p45	37	Bachelor Degree	Michael	Male	p45	45.731436631271855	170.98055134881542	Phillips	Business	Republican	2	1	-2	-2	-2	-1	-2	10	Christian	True		3	37	10
+p12	61	Master Degree	Sophia	Female	p12	505.7551897282252	347.0178978448457	Crandle	Business	Democrat	-3	-3	1	2	2	3	2	8	Christian	True		1	61	-3
+p90	61	Bachelor Degree	Tracy	Female	p90	512.2502080597014	52.03209233282794	Boulerice	Business	Republican	2	3	-2	-1	-2	-2	-1	11	Mormon	True		1	61	2
+p92	63	Law Degree	Christopher	Male	p92	561.24423483764	220.23979986145906	Goodman	Judge	Republican	-1	2	0	-1	-1	-2	-2	5	Jewish	True		4	63	-1
+p78	51	Bachelor Degree	Megan	Female	p78	323.1379267471859	179.23275675903565	Dye	Business	Democrat	0	-2	1	2	2	1	1	8	Christian	True		3	51	0
+p27	44	Bachelor Degree	Myron	Male	p27	180.16062795009745	8.120772935296609	Madera	Educator	Republican	3	3	-1	-1	-1	-2	-2	11	Christian	True		8	44	3
+p22	74	PhD	Anthony	Male	p22	774.9565629841442	60.87693919546786	Kane	Engineer	Republican	2	1	-2	-2	-1	-1	0	9	Christian	True		3	74	2
+p20	75	Law Degree	Tresa	Female	p20	785.8749530251954	275.6453981363499	Burrowes	Career Politician	Democrat	-2	-3	2	1	3	2	1	6	Christian	True		4	75	-2

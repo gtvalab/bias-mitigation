@@ -1,0 +1,11 @@
+	age	education	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_alcohol_sales_on_sundays	policy_strength_budget_for_free_school_lunch_program	policy_strength_increase_budget_for_medicare_coverage	policy_strength_increase_budget_for_veterans_affairs	policy_strength_increase_gun_control_legislation	policy_strength_legalize_medical_marijuana	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p02	45	PhD	Suzan	Female	p02	158.69320273516118	283.66642433437477	Baldwin	Engineer	Democrat	-2	-1	1	0	3	2	3	5	Jewish	True		1	5	-2
+p37	55	Law Degree	Charles	Male	p37	230.5791438308719	107.24369021987903	Torbett	Lawyer	Republican	1	1	-1	-2	-2	-1	-2	6	Christian	True		0	6	1
+p99	39	Master Degree	Terrence	Male	p99	275.06050266811604	61.06267610666592	Rodriguez	Career Politician	Republican	2	2	-2	-1	-1	-2	-1	7	Christian	True		0	7	2
+p97	53	Law Degree	Scott	Male	p97	547.399899146871	229.99745713304173	Mcdaniel	Judge	Democrat	-1	-2	1	1	2	1	2	12	Christian	True		0	12	-1
+p91	65	Bachelor Degree	Warren	Male	p91	609.8116305811104	282.392881096357	Smith	Financier	Democrat	-2	-1	2	1	2	2	2	13	Christian	True		1	13	-2
+p33	48	Medical Degree	Garret	Male	p33	176.15899465603223	56.55378598947095	Moran	Doctor	Republican	2	2	-3	-2	-1	-2	-2	5	Christian	True		1	5	2
+p24	63	Bachelor Degree	Barbara	Female	p24	661.1909546049792	162.5973527384866	Stagliano	Career Politician	Democrat	0	-2	1	2	3	3	2	14	Christian	True		0	14	0
+p90	61	Bachelor Degree	Tracy	Female	p90	498.68354139303483	52.03209233282794	Boulerice	Business	Republican	2	3	-2	-1	-2	-2	-1	11	Mormon	True		0	11	2
+p44	65	Master Degree	Mary	Female	p44	383.59835914960456	273.3396495465617	Hardy	Business	Democrat	-2	-3	3	3	2	1	2	9	Christian	True		1	9	-2
+p06	50	Law Degree	Robert	Male	p06	378.8713179709123	112.92567821167677	Blair	Judge	Republican	1	2	-2	-1	0	0	-2	9	Muslim	True		0	9	1

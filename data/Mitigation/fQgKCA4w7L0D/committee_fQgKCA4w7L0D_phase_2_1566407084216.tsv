@@ -1,0 +1,11 @@
+	age	education	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_alcohol_sales_on_sundays	policy_strength_budget_for_free_school_lunch_program	policy_strength_increase_budget_for_medicare_coverage	policy_strength_increase_budget_for_veterans_affairs	policy_strength_increase_gun_control_legislation	policy_strength_legalize_medical_marijuana	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p74	58	High School	Joseph	Male	p74	446.95762434130353	181.12528964352433	Kurylo	Farmer	Democrat	-2	-1	2	2	-1	2	3	9	Christian	True		11	58	9
+p34	36	Law Degree	James	Male	p34	18.044441912372903	227.16769550465315	Horn	Judge	Democrat	-2	-1	3	1	1	3	2	7	Christian	True		4	36	7
+p29	46	Law Degree	Robert	Male	p29	222.08038561115993	212.7117558298284	Rodriquez	Lawyer	Democrat	-2	-2	2	3	1	0	2	8	Christian	True		1	46	8
+p35	49	Law Degree	Thomas	Male	p35	273.75044617078595	231.8511271670734	Tran	Lawyer	Democrat	-3	-3	1	2	1	2	2	7	Christian	True		1	49	7
+p72	56	Bachelor Degree	Ellis	Male	p72	406.8103927175983	251.1168261099587	Campbell	Business	Democrat	-2	-1	2	2	1	2	2	6	Jewish	True		0	56	6
+p30	53	Law Degree	John	Male	p30	362.31830356690955	132.9456264756428	Johnson	Career Politician	Democrat	-3	-2	2	3	1	2	2	12	Christian	True		0	53	12
+p79	56	Master Degree	Maurice	Male	p79	414.957448890937	101.26347857229271	Trevino	Educator	Democrat	-2	0	2	1	1	2	3	13	Hindu	True		0	56	13
+p70	72	Master Degree	Raymond	Male	p70	739.11996397402	239.23846916164317	Ragsdale	Career Politician	Democrat	-2	-2	2	2	1	2	2	7	Christian	True		0	72	7
+p28	59	Law Degree	Vera	Female	p28	481.14308206030336	222.85947868510044	Garcia	Career Politician	Democrat	-1	-1	1	2	1	3	2	7	Christian	True		2	59	7
+p91	65	Bachelor Degree	Warren	Male	p91	591.3116305811104	106.09079776302363	Smith	Financier	Democrat	-2	-1	2	1	2	2	2	13	Christian	True		0	65	13

@@ -1,0 +1,11 @@
+	age	education	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_alcohol_sales_on_sundays	policy_strength_budget_for_free_school_lunch_program	policy_strength_increase_budget_for_medicare_coverage	policy_strength_increase_budget_for_veterans_affairs	policy_strength_increase_gun_control_legislation	policy_strength_legalize_medical_marijuana	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p21	76	Law Degree	Elizabeth	Female	p21	893.6850686386214	216.040455220195	Mcmorris	Lawyer	Democrat	-1	-3	1	3	2	3	3	5	Christian	True		5	3	-1
+p24	63	Bachelor Degree	Barbara	Female	p24	883.1909546049792	162.5973527384866	Stagliano	Career Politician	Democrat	0	-2	1	2	3	3	2	14	Christian	True		0	3	0
+p67	58	Law Degree	Harold	Male	p67	453.2205220783502	114.08048831170235	Roberts	Financier	Republican	1	2	0	-2	-3	-2	-2	13	Christian	True		0	0	1
+p06	50	Law Degree	Robert	Male	p06	434.3713179709123	112.92567821167677	Blair	Judge	Republican	1	2	-2	-1	0	0	-2	9	Muslim	True		0	0	1
+p73	57	Master Degree	Hector	Male	p73	884.3468221199583	235.54676756048903	Carraway	Career Politician	Democrat	-1	0	3	1	1	3	2	2	Christian	True		0	3	-1
+p88	63	High School	John	Male	p88	749.188397445533	223.49180842779094	Knight	Farmer	Democrat	-1	-2	2	2	2	2	2	5	Mormon	True		0	2	-1
+p54	58	PhD	Lloyd	Male	p54	734.2838301977044	218.9042082977152	Powell	Engineer	Democrat	-1	-2	1	2	2	2	1	6	Christian	True		0	2	-1
+p97	53	Law Degree	Scott	Male	p97	584.399899146871	229.99745713304173	Mcdaniel	Judge	Democrat	-1	-2	1	1	2	1	2	12	Christian	True		0	1	-1
+p01	42	Master Degree	Chester	Male	p01	734.0379313453267	232.6796335447269	Perrins	Financier	Democrat	-1	-2	3	3	3	2	2	9	Christian	True		0	2	-1
+p100	63	Medical Degree	Jeffrey	Male	p100	145.44950424672575	9.931413460979533	Gohn	Doctor	Republican	3	1	-1	-2	-3	-2	-1	7	Christian	True		0	-2	3

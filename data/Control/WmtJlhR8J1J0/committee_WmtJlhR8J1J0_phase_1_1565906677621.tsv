@@ -1,0 +1,11 @@
+	age	education	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_alcohol_sales_on_sundays	policy_strength_budget_for_free_school_lunch_program	policy_strength_increase_budget_for_medicare_coverage	policy_strength_increase_budget_for_veterans_affairs	policy_strength_increase_gun_control_legislation	policy_strength_legalize_medical_marijuana	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p59	47	Medical Degree	Juan	Male	p59	237.3833113975749	92.99947304680293	Jackson	Doctor	Republican	2	3	-3	-2	-2	-3	-2	14	Christian	True		5	47	14
+p45	37	Bachelor Degree	Michael	Male	p45	45.731436631271855	170.98055134881542	Phillips	Business	Republican	2	1	-2	-2	-2	-1	-2	10	Christian	True		0	37	10
+p92	63	Law Degree	Christopher	Male	p92	561.24423483764	269.6043831947924	Goodman	Judge	Republican	-1	2	0	-1	-1	-2	-2	5	Jewish	True		0	63	5
+p08	57	Bachelor Degree	Ronnie	Male	p08	438.572896105972	134.0834445151546	Black	Educator	Democrat	-3	-1	1	2	2	3	1	12	Christian	True		2	57	12
+p90	61	Bachelor Degree	Tracy	Female	p90	512.2502080597014	143.70917566616131	Boulerice	Business	Republican	2	3	-2	-1	-2	-2	-1	11	Mormon	True		0	61	11
+p48	64	Master Degree	Judy	Female	p48	579.0130855833957	313.35766092351207	Davis	Educator	Democrat	-1	-2	1	3	2	0	3	3	Christian	True		0	64	3
+p02	45	PhD	Suzan	Female	p02	189.5265360684945	276.61434100104145	Baldwin	Engineer	Democrat	-2	-1	1	0	3	2	3	5	Jewish	True		0	45	5
+p12	61	Master Degree	Sophia	Female	p12	505.7551897282252	220.0803978448457	Crandle	Business	Democrat	-3	-3	1	2	2	3	2	8	Christian	True		3	61	8
+p78	51	Bachelor Degree	Megan	Female	p78	323.1379267471859	221.54525675903565	Dye	Business	Democrat	0	-2	1	2	2	1	1	8	Christian	True		2	51	8
+p89	59	Bachelor Degree	Dale	Male	p89	481.9241199957956	253.33049123962118	Draper	Business	Republican	-1	2	-3	-2	-3	-3	-2	6	Christian	True		2	59	6

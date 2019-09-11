@@ -1,0 +1,11 @@
+	age	education	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_alcohol_sales_on_sundays	policy_strength_budget_for_free_school_lunch_program	policy_strength_increase_budget_for_medicare_coverage	policy_strength_increase_budget_for_veterans_affairs	policy_strength_increase_gun_control_legislation	policy_strength_legalize_medical_marijuana	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p37	55	Law Degree	Charles	Male	p37	600.5791438308719	276.493690219879	Torbett	Lawyer	Republican	1	1	-1	-2	-2	-1	-2	6	Christian	True		0	1	-2
+p90	61	Bachelor Degree	Tracy	Female	p90	739.1835413930348	221.282092332828	Boulerice	Business	Republican	2	3	-2	-1	-2	-2	-1	11	Mormon	True		1	2	-1
+p24	63	Bachelor Degree	Barbara	Female	p24	439.1909546049792	49.76401940515321	Stagliano	Career Politician	Democrat	0	-2	1	2	3	3	2	14	Christian	True		1	0	2
+p66	64	Associate Degree	Lynda	Female	p66	744.9850799388319	62.21581836173189	Price	Business	Democrat	-1	-2	1	2	2	0	2	14	Jewish	True		0	2	2
+p92	63	Law Degree	Christopher	Male	p92	304.71090150430666	220.23979986145906	Goodman	Judge	Republican	-1	2	0	-1	-1	-2	-2	5	Jewish	True		0	-1	-1
+p60	63	Master Degree	William	Male	p60	448.04439576630074	115.47813247029892	Fan	Career Politician	Republican	1	3	-2	-1	0	-3	-1	12	Christian	True		1	0	1
+p65	67	Master Degree	Ernestine	Female	p65	735.0498446640723	224.47941415311806	Livengood	Educator	Democrat	-1	-2	2	2	3	2	2	8	Christian	True		0	2	-1
+p95	49	Law Degree	Jeffrey	Male	p95	887.9892720279801	47.4754258030453	Thompson	Judge	Democrat	-1	-2	3	2	2	1	1	8	Christian	True		0	3	2
+p99	39	Master Degree	Terrence	Male	p99	145.56050266811604	230.31267610666598	Rodriguez	Career Politician	Republican	2	2	-2	-1	-1	-2	-1	7	Christian	True		0	-2	-1
+p100	63	Medical Degree	Jeffrey	Male	p100	293.4495042467257	9.931413460979533	Gohn	Doctor	Republican	3	1	-1	-2	-3	-2	-1	7	Christian	True		3	-1	3

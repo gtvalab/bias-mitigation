@@ -1,0 +1,11 @@
+	age	education	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_alcohol_sales_on_sundays	policy_strength_budget_for_free_school_lunch_program	policy_strength_increase_budget_for_medicare_coverage	policy_strength_increase_budget_for_veterans_affairs	policy_strength_increase_gun_control_legislation	policy_strength_legalize_medical_marijuana	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p89	59	Bachelor Degree	Dale	Male	p89	8.324119995795616	225.12215790628787	Draper	Business	Republican	-1	2	-3	-2	-3	-3	-2	6	Christian	True		1	-3	-1
+p92	63	Law Degree	Christopher	Male	p92	156.71090150430666	220.23979986145906	Goodman	Judge	Republican	-1	2	0	-1	-1	-2	-2	5	Jewish	True		1	-2	-1
+p18	54	Medical Degree	George	Male	p18	5.0688144125388135	119.40255340615643	Salvemini	Educator	Republican	1	3	-3	-2	-1	-2	-3	9	Christian	True		0	-3	1
+p76	54	Bachelor Degree	Nathaniel	Male	p76	9.15235107502449	115.87173036671045	Aguirre	Business	Republican	1	2	-2	-2	-1	-1	-3	5	Christian	True		1	-3	1
+p29	46	Law Degree	Robert	Male	p29	153.01371894449326	170.3992558298284	Rodriquez	Lawyer	Democrat	-2	-2	2	3	1	0	2	8	Christian	True		3	-2	0
+p17	65	Master Degree	Wilber	Male	p17	156.9121751805026	118.78824747642048	Forrest	Financier	Republican	1	2	-2	-3	-2	-1	-2	11	Christian	True		1	-2	1
+p87	64	Bachelor Degree	Tim	Male	p87	157.4725887616911	116.22066269291948	Guttirez	Military	Republican	1	1	-2	-1	0	-2	-2	15	Christian	True		1	-2	1
+p06	50	Law Degree	Robert	Male	p06	138.37131797091232	112.92567821167677	Blair	Judge	Republican	1	2	-2	-1	0	0	-2	9	Muslim	True		0	-2	1
+p07	58	Law Degree	Christopher	Male	p07	588.645825018615	343.3236090989603	Labrum	Educator	Democrat	-3	-1	3	1	3	2	1	8	Christian	True		0	1	-3
+p08	57	Bachelor Degree	Ronnie	Male	p08	596.4395627726386	345.6459445151546	Black	Educator	Democrat	-3	-1	1	2	2	3	1	12	Christian	True		1	1	-3

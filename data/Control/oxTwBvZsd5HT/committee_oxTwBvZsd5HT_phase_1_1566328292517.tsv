@@ -1,0 +1,11 @@
+	age	education	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_alcohol_sales_on_sundays	policy_strength_budget_for_free_school_lunch_program	policy_strength_increase_budget_for_medicare_coverage	policy_strength_increase_budget_for_veterans_affairs	policy_strength_increase_gun_control_legislation	policy_strength_legalize_medical_marijuana	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p44	65	Master Degree	Mary	Female	p44	883.0983591496046	-8.743683786771626	Hardy	Business	Democrat	-2	-3	3	3	2	1	2	9	Christian	True		0	3	3
+p48	64	Master Degree	Judy	Female	p48	598.746418916729	-3.9860890764879118	Davis	Educator	Democrat	-1	-2	1	3	2	0	3	3	Christian	True		0	1	3
+p02	45	PhD	Suzan	Female	p02	584.1932027351612	170.83309100104142	Baldwin	Engineer	Democrat	-2	-1	1	0	3	2	3	5	Jewish	True		2	1	0
+p28	59	Law Degree	Vera	Female	p28	599.5430820603034	46.557395351767056	Garcia	Career Politician	Democrat	-1	-1	1	2	1	3	2	7	Christian	True		2	1	2
+p82	58	Law Degree	David	Male	p82	878.9814523130366	57.83317199386697	Gatewood	Lawyer	Democrat	-2	-1	3	2	2	2	2	8	Mormon	True		0	3	2
+p90	61	Bachelor Degree	Tracy	Female	p90	147.18354139303486	221.282092332828	Boulerice	Business	Republican	2	3	-2	-1	-2	-2	-1	11	Mormon	True		0	-2	-1
+p65	67	Master Degree	Ernestine	Female	p65	735.0498446640723	55.229414153118014	Livengood	Educator	Democrat	-1	-2	2	2	3	2	2	8	Christian	True		0	2	2
+p20	75	Law Degree	Tresa	Female	p20	736.5416196918621	106.39539813634997	Burrowes	Career Politician	Democrat	-2	-3	2	1	3	2	1	6	Christian	True		0	2	1
+p24	63	Bachelor Degree	Barbara	Female	p24	587.1909546049792	49.76401940515321	Stagliano	Career Politician	Democrat	0	-2	1	2	3	3	2	14	Christian	True		2	1	2
+p12	61	Master Degree	Sophia	Female	p12	584.6885230615586	64.93456451151233	Crandle	Business	Democrat	-3	-3	1	2	2	3	2	8	Christian	True		2	1	2
