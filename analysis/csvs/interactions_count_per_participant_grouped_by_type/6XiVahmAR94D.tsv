@@ -1,0 +1,10 @@
+	participantId	interactionType	interactionTypeCount	interactionDurationSum
+37	6XiVahmAR94D	add_to_list_via_scatterplot_click	16	53608
+38	6XiVahmAR94D	axes_attribute_changed	6	0
+39	6XiVahmAR94D	change_attribute_distribution_results	16	0
+40	6XiVahmAR94D	filter_changed	30	0
+41	6XiVahmAR94D	mouseout	39	110919
+42	6XiVahmAR94D	mouseout_from_list	122	171095
+43	6XiVahmAR94D	mouseover	39	9816
+44	6XiVahmAR94D	mouseover_from_list	128	32269
+45	6XiVahmAR94D	remove_from_list_via_list_item_click	6	13670

@@ -1,0 +1,11 @@
+	participantId	interactionType	interactionTypeCount	interactionDurationSum
+148	f0eJoDsKT8si	add_to_list_via_scatterplot_click	11	106386
+149	f0eJoDsKT8si	axes_attribute_changed	8	0
+150	f0eJoDsKT8si	change_attribute_distribution	20	0
+151	f0eJoDsKT8si	change_attribute_distribution_results	9	0
+152	f0eJoDsKT8si	filter_changed	11	0
+153	f0eJoDsKT8si	mouseout	51	428654
+154	f0eJoDsKT8si	mouseout_from_list	29	59871
+155	f0eJoDsKT8si	mouseover	51	12853
+156	f0eJoDsKT8si	mouseover_from_list	30	7603
+157	f0eJoDsKT8si	remove_from_list_via_list_item_click	1	208

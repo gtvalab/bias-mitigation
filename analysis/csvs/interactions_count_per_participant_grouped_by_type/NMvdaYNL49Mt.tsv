@@ -1,0 +1,11 @@
+	participantId	interactionType	interactionTypeCount	interactionDurationSum
+83	NMvdaYNL49Mt	add_to_list_via_scatterplot_click	12	89838
+84	NMvdaYNL49Mt	axes_attribute_changed	42	0
+85	NMvdaYNL49Mt	change_attribute_distribution	12	0
+86	NMvdaYNL49Mt	change_attribute_distribution_results	32	0
+87	NMvdaYNL49Mt	filter_changed	56	0
+88	NMvdaYNL49Mt	mouseout	58	300763
+89	NMvdaYNL49Mt	mouseout_from_list	74	79811
+90	NMvdaYNL49Mt	mouseover	58	14643
+91	NMvdaYNL49Mt	mouseover_from_list	76	19174
+92	NMvdaYNL49Mt	remove_from_list_via_list_item_click	2	1443

@@ -1,0 +1,11 @@
+	committee_size	interactionAt	interactionType	participant_id	phase	politician_id	relativeInteractionAt
+0	1	1566843204148	add_to_committee	m8YdCZB7euiy	phase_1	p02	47.361000061035156
+1	2	1566843229716	add_to_committee	m8YdCZB7euiy	phase_1	p45	72.92900013923645
+2	3	1566843246075	add_to_committee	m8YdCZB7euiy	phase_1	p06	89.28800010681152
+3	4	1566843330821	add_to_committee	m8YdCZB7euiy	phase_1	p23	174.03400015830994
+4	5	1566843399111	add_to_committee	m8YdCZB7euiy	phase_1	p92	242.32400012016296
+5	6	1566843418696	add_to_committee	m8YdCZB7euiy	phase_1	p89	261.90900015830994
+6	7	1566843437209	add_to_committee	m8YdCZB7euiy	phase_1	p90	280.422000169754
+7	8	1566843446297	add_to_committee	m8YdCZB7euiy	phase_1	p66	289.50999999046326
+8	9	1566843476730	add_to_committee	m8YdCZB7euiy	phase_1	p78	319.9430000782013
+9	10	1566843651720	add_to_committee	m8YdCZB7euiy	phase_1	p24	494.93300008773804

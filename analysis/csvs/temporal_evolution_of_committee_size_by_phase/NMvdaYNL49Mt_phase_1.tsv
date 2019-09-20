@@ -1,0 +1,15 @@
+	committee_size	interactionAt	interactionType	participant_id	phase	politician_id	relativeInteractionAt
+0	1	1567013002631	add_to_committee	NMvdaYNL49Mt	phase_1	p10	433.7520000934601
+1	0	1567013097447	remove_from_committee	NMvdaYNL49Mt	phase_1	p10	528.5680000782013
+2	1	1567013302400	add_to_committee	NMvdaYNL49Mt	phase_1	p78	733.5210001468658
+3	2	1567013430720	add_to_committee	NMvdaYNL49Mt	phase_1	p23	861.8410000801086
+4	3	1567013463217	add_to_committee	NMvdaYNL49Mt	phase_1	p64	894.3380000591278
+5	4	1567013525249	add_to_committee	NMvdaYNL49Mt	phase_1	p33	956.3700001239777
+6	3	1567013529337	remove_from_committee	NMvdaYNL49Mt	phase_1	p33	960.4579999446869
+7	4	1567013533154	add_to_committee	NMvdaYNL49Mt	phase_1	p100	964.2750000953674
+8	5	1567013591386	add_to_committee	NMvdaYNL49Mt	phase_1	p02	1022.5069999694824
+9	6	1567013651643	add_to_committee	NMvdaYNL49Mt	phase_1	p18	1082.7639999389648
+10	7	1567013704019	add_to_committee	NMvdaYNL49Mt	phase_1	p39	1135.1400001049042
+11	8	1567013833557	add_to_committee	NMvdaYNL49Mt	phase_1	p92	1264.6779999732971
+12	9	1567013924094	add_to_committee	NMvdaYNL49Mt	phase_1	p34	1355.215000152588
+13	10	1567013991294	add_to_committee	NMvdaYNL49Mt	phase_1	p94	1422.414999961853
