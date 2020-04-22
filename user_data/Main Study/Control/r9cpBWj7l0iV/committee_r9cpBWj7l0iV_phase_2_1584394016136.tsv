@@ -1,0 +1,11 @@
+	age	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p060	58	Lester	Male	p060	133.38450087472523	95.82343317480567	Rowell	Scientist	Republican	In Favor	12	Christian	True		2	Scientist	12
+p013	48	Ryan	Male	p013	264.91437155413865	119.63716455524138	Curtis	Doctor	Democrat	Opposed	9	Christian	True		7	Doctor	9
+p139	58	Robert	Male	p139	112.35805819039919	124.43568864736773	Starrick	Career Politician	Republican	In Favor	9	Unaffiliated	True		1	Unaffiliated	Unaffiliated
+p027	63	Brandi	Female	p027	464.3084383151376	94.00387742346388	Archer	Business	Democrat	Opposed	7	Christian	True		1	Business	Female
+p095	55	Frank	Male	p095	192.11397421518643	207.28193359235448	Hsu	Doctor	Republican	In Favor	6	Christian	True		2	Doctor	Male
+p116	51	Candy	Female	p116	320.1547837090894	39.66568666114721	Oller	Educator	Democrat	Opposed	15	Christian	True		4	Educator	Female
+p107	66	Robin	Female	p107	561.2665801510825	20.528328941338415	Hudnell	Business	Democrat	Opposed	6	Christian	True		0	Business	Female
+p140	64	Timothy	Male	p140	28.15837108791819	178.2843481954791	Tucker	Lawyer	Republican	In Favor	13	Christian	True		0	Lawyer	Male
+p040	64	Kenneth	Male	p040	333.5134645932041	155.3114726969735	Flett	Educator	Democrat	Opposed	9	Christian	True		1	Educator	Male
+p075	68	Hilda	Female	p075	37.37987570705431	76.80987605370372	Barger	Lawyer	Republican	Neutral	7	Christian	True		2	Lawyer	Female

@@ -1,0 +1,11 @@
+	age	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p131	62	Deborah	Female	p131	346.2858948161342	18.47224355192401	Jackson	Lawyer	Democrat	Opposed	13	Christian	True		6	Democrat	13
+p043	58	Ann	Female	p043	348.7431822571239	26.25341063485145	Colvin	Lawyer	Democrat	Opposed	12	Hindu	True		8	Democrat	12
+p003	55	Betty	Female	p003	377.46414838844703	30.09771987603829	Sanchez	Career Politician	Democrat	Opposed	14	Jewish	True		4	Democrat	14
+p142	34	Laura	Female	p142	399.39233314993174	54.39346753059801	Helfritz	Doctor	Democrat	In Favor	12	Christian	True		1	Democrat	12
+p135	54	Edward	Male	p135	348.9816500929934	41.297015825082916	Mcdowell	Lawyer	Democrat	Opposed	16	Christian	True		1	Democrat	16
+p037	46	Michael	Male	p037	168.00730490691663	82.1741528699503	Johnson	Business	Republican	Opposed	9	Christian	True		0	Republican	9
+p019	80	John	Male	p019	167.37780595153254	7.140463171481557	Nitkowski	Business	Republican	In Favor	16	Christian	True		0	Republican	16
+p060	58	Lester	Male	p060	90.68295188837416	43.50983899455541	Rowell	Scientist	Republican	In Favor	12	Christian	True		1	Republican	12
+p097	75	Eric	Male	p097	184.2602349728936	46.55589054229675	Ruiz	Lawyer	Republican	In Favor	13	Christian	True		3	Republican	13
+p059	49	Herbert	Male	p059	365.4743955525361	123.52238409049852	Martinez	Lawyer	Democrat	In Favor	7	Jewish	True		2	Democrat	7

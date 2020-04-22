@@ -1,0 +1,145 @@
+id,party,gender,first_name,last_name,occupation,political_experience,policy_strength_ban_abortion_after_6_weeks
+p001,Democrat,Male,Stephen,Skubis,Doctor,0,-1
+p002,Democrat,Male,Carl,Perkins,Doctor,0,0
+p003,Democrat,Male,Eric,Lichty,Doctor,0,1
+p004,Democrat,Male,Ryan,Randall,Doctor,1,-1
+p005,Democrat,Male,Timothy,Waddell,Doctor,1,0
+p006,Democrat,Male,Stephen,Middleton,Doctor,1,1
+p007,Democrat,Male,Daniel,Raddatz,Doctor,2,-1
+p008,Democrat,Male,Joshua,Martinez,Doctor,2,0
+p009,Democrat,Male,Kevin,Smith,Doctor,2,1
+p010,Democrat,Male,Edmundo,Allen,Lawyer,0,-1
+p011,Democrat,Male,Charles,Boesen,Lawyer,0,0
+p012,Democrat,Male,Claude,Kelly,Lawyer,0,1
+p013,Democrat,Male,Charles,Phillips,Lawyer,1,-1
+p014,Democrat,Male,Steve,Haggerty,Lawyer,1,0
+p015,Democrat,Male,John,Bonn,Lawyer,1,1
+p016,Democrat,Male,Daniel,Jackson,Lawyer,2,-1
+p017,Democrat,Male,Robert,Rick,Lawyer,2,0
+p018,Democrat,Male,Eugene,Hoyle,Lawyer,2,1
+p019,Democrat,Male,Scott,Fairchild,Business,0,-1
+p020,Democrat,Male,Edgar,Tatum,Business,0,0
+p021,Democrat,Male,Matthew,Payne,Business,0,1
+p022,Democrat,Male,Kenneth,Yono,Business,1,-1
+p023,Democrat,Male,Charles,Brown,Business,1,0
+p024,Democrat,Male,Fred,Gulke,Business,1,1
+p025,Democrat,Male,Larry,Wilder,Business,2,-1
+p026,Democrat,Male,Claude,Lafountain,Business,2,0
+p027,Democrat,Male,Donald,Todd,Business,2,1
+p028,Democrat,Male,Darrick,Palmer,Career Politician,0,-1
+p029,Democrat,Male,Leon,Khan,Career Politician,0,0
+p030,Democrat,Male,James,Homer,Career Politician,0,1
+p031,Democrat,Male,Thomas,Bayerl,Career Politician,1,-1
+p032,Democrat,Male,Thomas,Tisdale,Career Politician,1,0
+p033,Democrat,Male,David,Bedard,Career Politician,1,1
+p034,Democrat,Male,William,Galloway,Career Politician,2,-1
+p035,Democrat,Male,Robert,Jones,Career Politician,2,0
+p036,Democrat,Male,William,Cunningham,Career Politician,2,1
+p037,Democrat,Female,Leslie,Stowe,Doctor,0,-1
+p038,Democrat,Female,Joann,Crock,Doctor,0,0
+p039,Democrat,Female,Mariah,Doutt,Doctor,0,1
+p040,Democrat,Female,Bernice,Seery,Doctor,1,-1
+p041,Democrat,Female,Tamika,Brown,Doctor,1,0
+p042,Democrat,Female,Autumn,Reynolds,Doctor,1,1
+p043,Democrat,Female,Eva,Correa,Doctor,2,-1
+p044,Democrat,Female,Donna,Cuff,Doctor,2,0
+p045,Democrat,Female,Lan,Martin,Doctor,2,1
+p046,Democrat,Female,Betty,Walston,Lawyer,0,-1
+p047,Democrat,Female,Katrina,Updike,Lawyer,0,0
+p048,Democrat,Female,Elizabeth,Kelsey,Lawyer,0,1
+p049,Democrat,Female,Helen,Witaszek,Lawyer,1,-1
+p050,Democrat,Female,Katie,Ralston,Lawyer,1,0
+p051,Democrat,Female,Judith,Collins,Lawyer,1,1
+p052,Democrat,Female,Andrea,Rowe,Lawyer,2,-1
+p053,Democrat,Female,Sandy,Daley,Lawyer,2,0
+p054,Democrat,Female,Alice,Konwinski,Lawyer,2,1
+p055,Democrat,Female,Chanel,Nguyen,Business,0,-1
+p056,Democrat,Female,Kristy,Lear,Business,0,0
+p057,Democrat,Female,Sylvia,Eastman,Business,0,1
+p058,Democrat,Female,Dale,Cook,Business,1,-1
+p059,Democrat,Female,Sheryl,Karp,Business,1,0
+p060,Democrat,Female,Yolanda,Do,Business,1,1
+p061,Democrat,Female,Claudia,Ramsay,Business,2,-1
+p062,Democrat,Female,Wendy,Farmer,Business,2,0
+p063,Democrat,Female,Cassandra,Autrey,Business,2,1
+p064,Democrat,Female,Elva,Page,Career Politician,0,-1
+p065,Democrat,Female,Kristi,Henson,Career Politician,0,0
+p066,Democrat,Female,Kathryn,Dunlap,Career Politician,0,1
+p067,Democrat,Female,Maria,Jordan,Career Politician,1,-1
+p068,Democrat,Female,Johnnie,Gillard,Career Politician,1,0
+p069,Democrat,Female,Heather,Zeigler,Career Politician,1,1
+p070,Democrat,Female,Hortense,Burroughs,Career Politician,2,-1
+p071,Democrat,Female,Darla,Jenkins,Career Politician,2,0
+p072,Democrat,Female,Velma,Lopez,Career Politician,2,1
+p073,Republican,Male,Jeffrey,Oliver,Doctor,0,-1
+p074,Republican,Male,John,Forbes,Doctor,0,0
+p075,Republican,Male,Kenneth,Mayo,Doctor,0,1
+p076,Republican,Male,Clifford,Kwak,Doctor,1,-1
+p077,Republican,Male,Tom,Moss,Doctor,1,0
+p078,Republican,Male,Todd,Gutierrez,Doctor,1,1
+p079,Republican,Male,Kevin,Breland,Doctor,2,-1
+p080,Republican,Male,David,Haws,Doctor,2,0
+p081,Republican,Male,Calvin,Goss,Doctor,2,1
+p082,Republican,Male,Eddie,Fowler,Lawyer,0,-1
+p083,Republican,Male,Walter,Ensign,Lawyer,0,0
+p084,Republican,Male,David,Jaime,Lawyer,0,1
+p085,Republican,Male,Eric,Elliott,Lawyer,1,-1
+p086,Republican,Male,Scott,Jimenez,Lawyer,1,0
+p087,Republican,Male,Joseph,Vantull,Lawyer,1,1
+p088,Republican,Male,James,Nettles,Lawyer,2,-1
+p089,Republican,Male,Jeremy,Williams,Lawyer,2,0
+p090,Republican,Male,Jeff,Huddleston,Lawyer,2,1
+p091,Republican,Male,Gerald,Kuhnke,Business,0,-1
+p092,Republican,Male,Mitchel,Kranz,Business,0,0
+p093,Republican,Male,Carlos,Kradel,Business,0,1
+p094,Republican,Male,Salvador,Mckeever,Business,1,-1
+p095,Republican,Male,Donovan,Pearsall,Business,1,0
+p096,Republican,Male,Jorge,Cooper,Business,1,1
+p097,Republican,Male,Sammy,Sierra,Business,2,-1
+p098,Republican,Male,Fred,Henderson,Business,2,0
+p099,Republican,Male,Morris,Billington,Business,2,1
+p100,Republican,Male,Ralph,Williams,Career Politician,0,-1
+p101,Republican,Male,Mitchell,Bell,Career Politician,0,0
+p102,Republican,Male,Lonnie,Gonzales,Career Politician,0,1
+p103,Republican,Male,Patrick,Waller,Career Politician,1,-1
+p104,Republican,Male,Don,Crader,Career Politician,1,0
+p105,Republican,Male,Anthony,Lee,Career Politician,1,1
+p106,Republican,Male,Mohamed,Baker,Career Politician,2,-1
+p107,Republican,Male,Blaine,Ray,Career Politician,2,0
+p108,Republican,Male,Glenn,Donovan,Career Politician,2,1
+p109,Republican,Female,Pamela,Greene,Doctor,0,-1
+p110,Republican,Female,Paula,Louis,Doctor,0,0
+p111,Republican,Female,Clara,Hughes,Doctor,0,1
+p112,Republican,Female,Kathryn,Cash,Doctor,1,-1
+p113,Republican,Female,Darcie,Britt,Doctor,1,0
+p114,Republican,Female,Chanell,Varga,Doctor,1,1
+p115,Republican,Female,Eileen,Croom,Doctor,2,-1
+p116,Republican,Female,Margaret,Hall,Doctor,2,0
+p117,Republican,Female,Frances,Cianfrini,Doctor,2,1
+p118,Republican,Female,Rhonda,Redmond,Lawyer,0,-1
+p119,Republican,Female,Elizabeth,Scully,Lawyer,0,0
+p120,Republican,Female,Michele,Walsh,Lawyer,0,1
+p121,Republican,Female,Bessie,Mcbride,Lawyer,1,-1
+p122,Republican,Female,Brenda,Mcmonagle,Lawyer,1,0
+p123,Republican,Female,Norma,Estep,Lawyer,1,1
+p124,Republican,Female,Bobbie,Lance,Lawyer,2,-1
+p125,Republican,Female,Susan,Tompkins,Lawyer,2,0
+p126,Republican,Female,Sandra,Fitanides,Lawyer,2,1
+p127,Republican,Female,Tanya,Whatley,Business,0,-1
+p128,Republican,Female,Norma,Kirgan,Business,0,0
+p129,Republican,Female,Kathleen,Ornelas,Business,0,1
+p130,Republican,Female,Ella,Kjar,Business,1,-1
+p131,Republican,Female,Maria,Chacon,Business,1,0
+p132,Republican,Female,Brenda,Smith,Business,1,1
+p133,Republican,Female,Nellie,Streit,Business,2,-1
+p134,Republican,Female,Barbra,Gillilan,Business,2,0
+p135,Republican,Female,Patsy,Powell,Business,2,1
+p136,Republican,Female,Frances,Pursifull,Career Politician,0,-1
+p137,Republican,Female,Gloria,Spalding,Career Politician,0,0
+p138,Republican,Female,Lois,Deaton,Career Politician,0,1
+p139,Republican,Female,Ella,Rowell,Career Politician,1,-1
+p140,Republican,Female,Amanda,Ashalintubbi,Career Politician,1,0
+p141,Republican,Female,Bertha,Fry,Career Politician,1,1
+p142,Republican,Female,Brooke,Bangert,Career Politician,2,-1
+p143,Republican,Female,Marilyn,Price,Career Politician,2,0
+p144,Republican,Female,Ann,Flax,Career Politician,2,1

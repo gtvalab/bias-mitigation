@@ -1,0 +1,145 @@
+id,party,gender,first_name,last_name,occupation,religion,age,political_experience,policy_strength_ban_abortion_after_6_weeks
+p001,Democrat,Male,George,Bowen,Lawyer,Jewish,52,4,Neutral
+p002,Democrat,Male,Alfredo,Evans,Business,Christian,73,11,Opposed
+p003,Democrat,Female,Betty,Sanchez,Career Politician,Jewish,55,14,Opposed
+p004,Democrat,Male,Donald,Nadal,Doctor,Christian,68,7,Opposed
+p005,Republican,Male,Michael,Gibbon,Lawyer,Christian,71,10,In Favor
+p006,Republican,Male,Joseph,Hayes,Educator,Christian,67,2,In Favor
+p007,Republican,Male,Robert,Shannon,Career Politician,Christian,48,12,In Favor
+p008,Democrat,Male,Justin,Knight,Lawyer,Christian,62,8,Opposed
+p009,Democrat,Male,Paul,Myers,Educator,Christian,54,11,Opposed
+p010,Democrat,Male,Ralph,Roberts,Lawyer,Christian,50,8,Opposed
+p011,Democrat,Male,Timothy,Kitchin,Lawyer,Christian,50,10,Opposed
+p012,Republican,Male,Justin,Valadez,Scientist,Unaffiliated,37,5,In Favor
+p013,Democrat,Male,Ryan,Curtis,Career Politician,Christian,48,9,Opposed
+p014,Democrat,Male,Thomas,Studler,Business,Christian,47,7,Opposed
+p015,Republican,Male,Shaun,Smart,Lawyer,Christian,58,10,In Favor
+p016,Democrat,Male,Warren,Werley,Educator,Christian,59,10,Opposed
+p017,Democrat,Male,David,Reed,Career Politician,Christian,67,9,Opposed
+p018,Democrat,Male,Jeffrey,Reid,Business,Christian,44,12,Opposed
+p019,Republican,Male,John,Nitkowski,Business,Christian,80,16,In Favor
+p020,Democrat,Male,William,Burke,Career Politician,Christian,69,14,Opposed
+p021,Republican,Female,Lisa,Anderson,Educator,Christian,59,4,In Favor
+p022,Democrat,Male,Ricky,Altro,Career Politician,Christian,58,11,Opposed
+p023,Democrat,Male,Sam,Gardner,Lawyer,Mormon,54,11,Opposed
+p024,Republican,Male,Carl,Weaver,Business,Christian,54,13,Neutral
+p025,Republican,Male,Edward,Matto,Lawyer,Christian,52,10,In Favor
+p026,Republican,Male,Charles,Harvey,Lawyer,Christian,64,8,In Favor
+p027,Democrat,Female,Brandi,Archer,Business,Christian,63,7,Opposed
+p028,Republican,Male,Daniel,Fulmer,Lawyer,Christian,44,5,Neutral
+p029,Democrat,Male,Rafael,Brown,Lawyer,Christian,55,8,Opposed
+p030,Republican,Male,Roy,Tarango,Lawyer,Christian,51,13,In Favor
+p031,Democrat,Female,Maria,Cuningham,Business,Christian,55,8,Opposed
+p032,Democrat,Male,Oscar,Davis,Scientist,Jewish,52,9,Opposed
+p033,Democrat,Male,Patrick,Baker,Career Politician,Christian,49,4,Opposed
+p034,Republican,Male,Tim,Clark,Business,Christian,59,11,In Favor
+p035,Democrat,Male,Steven,Richmond,Lawyer,Christian,47,8,Opposed
+p036,Democrat,Male,Clyde,Kitchen,Scientist,Christian,56,10,Opposed
+p037,Republican,Male,Michael,Johnson,Business,Christian,46,9,Opposed
+p038,Democrat,Male,Richard,Furtado,Lawyer,Christian,49,3,Opposed
+p039,Republican,Male,Russell,Hooten,Career Politician,Christian,54,8,In Favor
+p040,Democrat,Male,Kenneth,Flett,Educator,Christian,64,9,Opposed
+p041,Democrat,Male,Calvin,Dennison,Business,Christian,62,10,Opposed
+p042,Republican,Male,David,Stapleton,Lawyer,Christian,63,8,Opposed
+p043,Democrat,Female,Ann,Colvin,Lawyer,Hindu,58,12,Opposed
+p044,Republican,Male,Christopher,Alexander,Business,Jewish,68,5,In Favor
+p045,Republican,Male,Leon,Whetstone,Business,Christian,64,7,In Favor
+p046,Republican,Male,George,Coleman,Lawyer,Christian,57,5,Opposed
+p047,Democrat,Male,William,Treadway,Lawyer,Christian,62,11,Opposed
+p048,Democrat,Male,Alfred,Funkhouser,Career Politician,Christian,46,9,Opposed
+p049,Republican,Male,Richard,Thomsen,Career Politician,Christian,45,5,In Favor
+p050,Republican,Male,Dennis,Thompson,Business,Christian,61,9,In Favor
+p051,Democrat,Female,Jackie,Nooner,Scientist,Christian,53,16,Opposed
+p052,Republican,Male,Darrell,Quinn,Lawyer,Christian,56,11,In Favor
+p053,Republican,Male,Aurelio,Vaughn,Business,Christian,55,10,In Favor
+p054,Republican,Male,Thomas,Akins,Lawyer,Christian,61,7,In Favor
+p055,Democrat,Male,Charlie,Johnson,Business,Christian,75,12,Opposed
+p056,Republican,Male,Wayne,Atkins,Educator,Christian,43,10,In Favor
+p057,Republican,Male,James,Glazener,Lawyer,Christian,55,10,In Favor
+p058,Republican,Male,Martin,Adkins,Doctor,Jewish,40,1,In Favor
+p059,Democrat,Male,Herbert,Martinez,Lawyer,Jewish,49,7,Opposed
+p060,Republican,Male,Lester,Rowell,Scientist,Christian,58,12,In Favor
+p061,Republican,Male,Calvin,Gautreau,Career Politician,Christian,64,10,In Favor
+p062,Republican,Male,Tommy,Lanier,Career Politician,Christian,56,6,In Favor
+p063,Republican,Male,John,Brokaw,Lawyer,Christian,33,3,In Favor
+p064,Democrat,Male,Frank,Moore,Career Politician,Jewish,61,10,Opposed
+p065,Republican,Female,Dolores,Martin,Lawyer,Christian,62,7,In Favor
+p066,Democrat,Female,Carey,Nguyen,Scientist,Christian,46,7,Opposed
+p067,Democrat,Male,Mark,Rush,Scientist,Christian,46,11,Opposed
+p068,Democrat,Male,John,Haines,Lawyer,Christian,54,5,Opposed
+p069,Democrat,Male,Kasey,Gonzales,Business,Christian,65,8,Opposed
+p070,Democrat,Male,Robert,Green,Business,Christian,68,7,Opposed
+p071,Democrat,Male,Steve,Herzog,Educator,Christian,52,11,Opposed
+p072,Republican,Male,Leonard,Leal,Lawyer,Christian,67,6,Neutral
+p073,Democrat,Female,Gail,Hodges,Lawyer,Christian,57,10,Opposed
+p074,Republican,Male,Marshall,Davidson,Career Politician,Hindu,45,11,In Favor
+p075,Republican,Female,Hilda,Barger,Lawyer,Christian,68,7,In Favor
+p076,Republican,Male,Richard,Castillo,Lawyer,Christian,55,12,In Favor
+p077,Democrat,Female,Barbara,Bushnell,Lawyer,Christian,63,5,Opposed
+p078,Republican,Male,Donald,Mitchell,Lawyer,Jewish,62,11,In Favor
+p079,Republican,Female,Amanda,Campos,Educator,Christian,54,0,In Favor
+p080,Democrat,Male,John,Rudish,Lawyer,Christian,62,15,Neutral
+p081,Democrat,Female,Yvonne,Foster,Lawyer,Christian,53,10,Opposed
+p082,Democrat,Female,Elizabeth,Guevara,Lawyer,Christian,38,9,Opposed
+p083,Republican,Male,Donald,Rhoads,Lawyer,Christian,43,6,In Favor
+p084,Democrat,Male,Nathan,Teague,Lawyer,Christian,69,6,Opposed
+p085,Republican,Male,Jason,Jones,Lawyer,Christian,65,9,In Favor
+p086,Republican,Male,Richard,Holley,Educator,Christian,56,7,In Favor
+p087,Democrat,Male,Howard,Rundle,Lawyer,Christian,34,11,Opposed
+p088,Democrat,Female,Nidia,Sargeant,Lawyer,Christian,65,9,Opposed
+p089,Republican,Female,Mabel,Evans,Career Politician,Christian,79,5,Opposed
+p090,Democrat,Male,Rodney,Fritch,Career Politician,Christian,58,5,Opposed
+p091,Republican,Male,Harry,Parker,Lawyer,Christian,53,6,In Favor
+p092,Republican,Male,Lonnie,Greene,Business,Christian,76,11,In Favor
+p093,Democrat,Female,Hattie,Taylor,Business,Christian,51,7,Opposed
+p094,Democrat,Male,Don,Wright,Lawyer,Muslim,54,13,Opposed
+p095,Republican,Male,Frank,Hsu,Doctor,Christian,55,6,Neutral
+p096,Republican,Male,Roger,Strei,Scientist,Christian,62,10,In Favor
+p097,Republican,Male,Eric,Ruiz,Lawyer,Christian,75,13,In Favor
+p098,Republican,Male,Jason,Vasquez,Career Politician,Christian,61,9,In Favor
+p099,Republican,Male,Donald,Kemper,Business,Christian,53,10,In Favor
+p100,Republican,Female,Blanche,Mcguire,Business,Christian,59,7,In Favor
+p101,Republican,Male,Dale,Ferguson,Career Politician,Christian,71,8,In Favor
+p102,Republican,Male,Matthew,Beach,Lawyer,Jewish,51,4,In Favor
+p103,Republican,Male,Charles,Gaines,Educator,Christian,45,9,In Favor
+p104,Democrat,Male,Edwin,Fowler,Career Politician,Christian,62,6,Opposed
+p105,Democrat,Male,Brian,Rivera,Lawyer,Christian,55,9,Opposed
+p106,Republican,Female,Betty,Carr,Career Politician,Christian,49,8,In Favor
+p107,Democrat,Female,Robin,Hudnell,Business,Christian,66,6,Opposed
+p108,Democrat,Male,Denis,Gunter,Career Politician,Christian,75,7,Opposed
+p109,Republican,Male,Francis,Musante,Career Politician,Christian,51,10,In Favor
+p110,Democrat,Female,Lorena,Macomber,Lawyer,Christian,61,9,Opposed
+p111,Republican,Male,Leon,Buchanan,Educator,Christian,69,9,In Favor
+p112,Republican,Male,Juan,Grundhoefer,Scientist,Christian,53,11,In Favor
+p113,Republican,Male,Van,Tregre,Lawyer,Christian,59,9,In Favor
+p114,Democrat,Male,Gary,Pope,Lawyer,Christian,66,9,Opposed
+p115,Democrat,Male,Hershel,Foley,Business,Christian,66,9,Opposed
+p116,Democrat,Female,Candy,Oller,Educator,Christian,51,15,Opposed
+p117,Republican,Male,Raymond,Ruby,Scientist,Christian,54,6,In Favor
+p118,Republican,Male,Horace,Vargas,Educator,Christian,59,9,In Favor
+p119,Republican,Male,Nathan,Provost,Career Politician,Christian,68,7,In Favor
+p120,Republican,Female,Jeannie,Metzger,Lawyer,Christian,39,7,In Favor
+p121,Democrat,Male,Jason,Wall,Career Politician,Christian,71,10,Opposed
+p122,Democrat,Male,James,Morey,Business,Jewish,58,9,Opposed
+p123,Republican,Female,Johanna,Sprague,Career Politician,Unaffiliated,57,4,In Favor
+p124,Republican,Male,Joseph,Sullivan,Business,Christian,70,10,In Favor
+p125,Republican,Male,George,Chambers,Career Politician,Christian,45,8,In Favor
+p126,Republican,Male,Ernest,Robinson,Lawyer,Christian,55,9,In Favor
+p127,Republican,Male,Michael,Winton,Lawyer,Christian,59,10,In Favor
+p128,Republican,Male,Jeffrey,Vandenheuvel,Educator,Christian,77,8,In Favor
+p129,Republican,Male,Robert,Dolan,Lawyer,Christian,68,10,In Favor
+p130,Republican,Male,Todd,Chene,Scientist,Christian,58,10,In Favor
+p131,Democrat,Female,Deborah,Jackson,Lawyer,Christian,62,13,Opposed
+p132,Republican,Male,John,Ervin,Lawyer,Christian,46,8,In Favor
+p133,Republican,Male,William,Smith,Lawyer,Christian,70,8,In Favor
+p134,Democrat,Male,James,Smith,Business,Christian,44,11,Opposed
+p135,Democrat,Male,Edward,Mcdowell,Educator,Christian,54,16,Opposed
+p136,Republican,Male,Stephen,Foss,Business,Christian,47,9,In Favor
+p137,Republican,Male,Claude,Shultz,Career Politician,Christian,54,6,In Favor
+p138,Democrat,Male,Donald,Bronson,Educator,Christian,65,3,Opposed
+p139,Republican,Male,Robert,Starrick,Career Politician,Unaffiliated,58,9,In Favor
+p140,Republican,Male,Timothy,Tucker,Lawyer,Christian,64,13,In Favor
+p141,Democrat,Female,Judith,Carraway,Lawyer,Muslim,45,6,Opposed
+p142,Democrat,Female,Laura,Helfritz,Doctor,Christian,34,12,Opposed
+p143,Republican,Male,Jeff,Diclaudio,Business,Christian,49,5,In Favor
+p144,Republican,Male,Pedro,Crisson,Business,Christian,68,9,In Favor

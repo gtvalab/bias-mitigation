@@ -1,0 +1,11 @@
+	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_abortion_after_6_weeks_cat	political_experience	political_experience_cat	selected	sizeVar	timesVisited	xVar	yVar
+p110	Paula	Female	p110	25.113673048777763	314.8689081597503	Louis	Doctor	Republican	0	Neutral	0	Low	True		1	Doctor	Low
+p121	Bessie	Female	p121	219.09360816575972	143.4032022160979	Mcbride	Lawyer	Republican	-1	Opposed	1	Medium	True		1	Lawyer	Medium
+p052	Andrea	Female	p052	227.27645455045405	31.007664040113855	Rowe	Lawyer	Democrat	-1	Opposed	2	High	True		0	Lawyer	High
+p047	Katrina	Female	p047	272.02639295346273	305.91327385907255	Updike	Lawyer	Democrat	0	Neutral	0	Low	True		0	Lawyer	Low
+p055	Chanel	Female	p055	493.37039908071137	251.6883378276429	Nguyen	Business	Democrat	-1	Opposed	0	Low	True		0	Business	Low
+p113	Darcie	Female	p113	64.31727877716429	160.39145127466986	Britt	Doctor	Republican	0	Neutral	1	Medium	True		0	Doctor	Medium
+p143	Marilyn	Female	p143	664.1855907257626	12.665354947226856	Price	Career Politician	Republican	0	Neutral	2	High	True		0	Career Politician	High
+p051	Judith	Female	p051	585.1065979046606	156.58206255574015	Collins	Lawyer	Democrat	1	In favor	1	Medium	True		1	In favor	Medium
+p039	Mariah	Female	p039	76.30423876772957	9.817885252402997	Doutt	Doctor	Democrat	1	In favor	0	Low	True		2	Low	In favor
+p066	Kathryn	Female	p066	602.7703755328811	42.672981636640614	Dunlap	Career Politician	Democrat	1	In favor	0	Low	True		3	In favor	In favor

@@ -1,0 +1,11 @@
+	age	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p084	69	Nathan	Male	p084	680.7248191508354	301.78392482284505	Teague	Lawyer	Democrat	Opposed	6	Christian	True		1	Opposed	6
+p133	70	William	Male	p133	181.13501189928627	196.34586382064015	Smith	Lawyer	Republican	In Favor	8	Christian	True		1	In Favor	8
+p073	57	Gail	Female	p073	424.1021154705574	149.0621462564697	Hodges	Lawyer	Democrat	Neutral	10	Christian	True		2	Neutral	10
+p075	68	Hilda	Female	p075	436.727445745211	258.44289661618035	Barger	Lawyer	Republican	Neutral	7	Christian	True		2	Neutral	7
+p141	45	Judith	Female	p141	735.7783008922453	254.66838326810495	Carraway	Lawyer	Democrat	Opposed	6	Muslim	True		1	Opposed	6
+p116	51	Candy	Female	p116	716.8587379791148	30.973051195940197	Oller	Educator	Democrat	Opposed	15	Christian	True		0	Opposed	15
+p021	59	Lisa	Female	p021	141.9967027353158	278.4315148223096	Anderson	Educator	Republican	In Favor	4	Christian	True		3	In Favor	4
+p120	39	Jeannie	Female	p120	127.62029266075945	232.8801268474943	Metzger	Doctor	Republican	In Favor	7	Jewish	True		1	In Favor	7
+p117	54	Raymond	Male	p117	198.7845857306438	252.2669799264857	Ruby	Scientist	Republican	In Favor	6	Christian	True		1	In Favor	6
+p036	56	Clyde	Male	p036	715.5326454008109	126.87276117729898	Kitchen	Scientist	Democrat	Opposed	10	Christian	True		2	Opposed	10

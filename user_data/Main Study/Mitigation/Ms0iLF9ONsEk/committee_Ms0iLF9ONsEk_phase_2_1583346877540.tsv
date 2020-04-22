@@ -1,0 +1,11 @@
+	age	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p043	58	Ann	Female	p043	641.3605256616031	127.56286526244944	Colvin	Lawyer	Democrat	Opposed	12	Hindu	True		2	Opposed	Democrat
+p035	47	Steven	Male	p035	602.509648426327	128.37621119193602	Richmond	Lawyer	Democrat	Opposed	8	Mormon	True		1	Opposed	Mormon
+p111	69	Leon	Male	p111	173.3367958254624	206.55526271079358	Buchanan	Educator	Republican	Neutral	9	Christian	True		1	Republican	Neutral
+p123	57	Johanna	Female	p123	208.44007775707405	63.19384056217636	Sprague	Career Politician	Republican	Opposed	4	Unaffiliated	True		1	Republican	Opposed
+p120	39	Jeannie	Female	p120	104.43553765450432	300.2985976442761	Metzger	Doctor	Republican	In Favor	7	Jewish	True		4	39	In Favor
+p066	46	Carey	Female	p066	357.5850131734804	173.0158184640345	Nguyen	Business	Democrat	Neutral	7	Christian	True		5	7	Neutral
+p059	49	Herbert	Male	p059	360.59387102406083	380.69599459849286	Martinez	Lawyer	Democrat	In Favor	7	Jewish	True		0	7	In Favor
+p093	51	Hattie	Female	p093	282.1127741123925	60.87375285399721	Taylor	Business	Democrat	Opposed	7	Christian	True		6	7	Opposed
+p116	51	Candy	Female	p116	665.6176823279708	60.508704762235354	Oller	Educator	Democrat	Opposed	15	Christian	True		6	15	Opposed
+p051	53	Jackie	Female	p051	723.8367048805216	110.06310018091855	Nooner	Scientist	Democrat	Opposed	16	Christian	True		6	16	Opposed

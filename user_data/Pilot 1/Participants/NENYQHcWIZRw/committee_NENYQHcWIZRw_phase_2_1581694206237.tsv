@@ -1,0 +1,11 @@
+	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_abortion_after_6_weeks_cat	political_experience	political_experience_cat	selected	sizeVar	timesVisited	xVar	yVar
+p025	Larry	Male	p025	474.680758711286	78.3559471277261	Wilder	Business	Democrat	-1	Opposed	2	High	True		3	High	Business
+p108	Glenn	Male	p108	485.55429616226445	30.838347611608373	Donovan	Career Politician	Republican	1	In favor	2	High	True		1	High	Career Politician
+p098	Fred	Male	p098	226.48542040355403	75.17854276851145	Henderson	Business	Republican	0	Neutral	2	High	True		3	Neutral	Business
+p116	Margaret	Female	p116	384.1374618811941	41.005184932636226	Hall	Doctor	Republican	0	Neutral	2	High	True		0	Female	High
+p139	Ella	Female	p139	6.280295978469145	83.39158893843157	Rowell	Career Politician	Republican	-1	Opposed	1	Medium	True		2	Opposed	Medium
+p017	Robert	Male	p017	198.4641069462933	16.936996271527626	Rick	Lawyer	Democrat	0	Neutral	2	High	True		2	Neutral	High
+p023	Charles	Male	p023	254.54543703413592	130.4566695257874	Brown	Business	Democrat	0	Neutral	1	Medium	True		0	Neutral	Medium
+p042	Autumn	Female	p042	429.8658954383583	110.54810816947783	Reynolds	Doctor	Democrat	1	In favor	1	Medium	True		1	In favor	Medium
+p070	Hortense	Female	p070	7.422717732322817	34.81662485780833	Burroughs	Career Politician	Democrat	-1	Opposed	2	High	True		2	Opposed	High
+p112	Kathryn	Female	p112	45.51813429157362	120.30034442292359	Cash	Doctor	Republican	-1	Opposed	1	Medium	True		0	Opposed	Medium

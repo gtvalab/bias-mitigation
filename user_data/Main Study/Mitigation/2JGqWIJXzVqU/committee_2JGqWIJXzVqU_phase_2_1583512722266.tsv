@@ -1,0 +1,11 @@
+	age	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p134	44	James	Male	p134	161.9620308143815	239.26396172147375	Smith	Business	Democrat	Neutral	11	Christian	True		1	44	Neutral
+p001	52	George	Male	p001	504.8009802785241	200.3513671033277	Bowen	Lawyer	Democrat	Neutral	4	Jewish	True		1	Democrat	Neutral
+p080	62	John	Male	p080	722.3718255744751	172.5312857759682	Rudish	Lawyer	Democrat	Neutral	15	Christian	True		4	15	Neutral
+p094	54	Don	Male	p094	627.10688603533	242.2073228105811	Wright	Lawyer	Democrat	Neutral	13	Muslim	True		4	13	Neutral
+p123	57	Johanna	Female	p123	184.86172154721237	109.53377549348636	Sprague	Career Politician	Republican	Opposed	4	Unaffiliated	True		2	Republican	Opposed
+p037	46	Michael	Male	p037	237.19835539169998	38.878490611592625	Johnson	Business	Republican	Opposed	9	Christian	True		3	Republican	Opposed
+p045	64	Leon	Male	p045	215.39896875398819	192.92995703240666	Whetstone	Business	Republican	Neutral	7	Christian	True		1	Republican	Neutral
+p106	49	Betty	Female	p106	214.77982305014	164.8274649046028	Carr	Career Politician	Republican	Neutral	8	Jewish	True		0	Republican	Neutral
+p020	69	William	Male	p020	554.2554943076404	50.21626865567842	Burke	Career Politician	Democrat	Opposed	14	Christian	True		1	Democrat	Opposed
+p104	62	Edwin	Male	p104	561.4644660945353	106.7226115806136	Fowler	Career Politician	Democrat	Opposed	6	Christian	True		10	Democrat	Opposed

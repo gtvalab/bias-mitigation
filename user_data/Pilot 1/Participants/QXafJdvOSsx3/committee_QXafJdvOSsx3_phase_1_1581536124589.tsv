@@ -1,0 +1,11 @@
+	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_abortion_after_6_weeks_cat	political_experience	political_experience_cat	selected	sizeVar	timesVisited	xVar	yVar
+p008	Joshua	Male	p008	551.1889015046047	286.54893503398165	Martinez	Doctor	Democrat	0	Neutral	2	High	True		3	High	Doctor
+p030	James	Male	p030	80.65706643410786	22.82027788573939	Homer	Career Politician	Democrat	1	In favor	0	Low	True		0	Male	Career Politician
+p139	Ella	Female	p139	418.63086458191987	1.7698461319403291	Rowell	Career Politician	Republican	-1	Opposed	1	Medium	True		3	Female	Career Politician
+p083	Walter	Male	p083	34.49601028179117	240.72094641146896	Ensign	Lawyer	Republican	0	Neutral	0	Low	True		0	Male	Male
+p087	Joseph	Male	p087	593.257576950712	208.70325472890417	Vantull	Lawyer	Republican	1	In favor	1	Medium	True		4	In favor	Male
+p121	Bessie	Female	p121	44.24665710303041	8.853922575862951	Mcbride	Lawyer	Republican	-1	Opposed	1	Medium	True		0	Opposed	Female
+p059	Sheryl	Female	p059	22.004797603967177	32.428101127234704	Karp	Business	Democrat	0	Neutral	1	Medium	True		2	Democrat	Female
+p022	Kenneth	Male	p022	0.7501965218907962	192.36970048664364	Yono	Business	Democrat	-1	Opposed	1	Medium	True		3	Opposed	Male
+p115	Eileen	Female	p115	57.990137241033096	16.848831824307176	Croom	Doctor	Republican	-1	Opposed	2	High	True		29	Opposed	Female
+p045	Lan	Female	p045	559.6016310289373	48.22476996511762	Martin	Doctor	Democrat	1	In favor	2	High	True		4	In favor	Female

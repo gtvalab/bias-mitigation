@@ -1,0 +1,11 @@
+	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_abortion_after_6_weeks_cat	political_experience	political_experience_cat	selected	sizeVar	timesVisited	xVar	yVar
+p115	Eileen	Female	p115	639.3664073931251	56.66241927620362	Croom	Doctor	Republican	-1	Opposed	2	High	True		3	High	Republican
+p097	Sammy	Male	p097	436.83954363557336	71.70391402364781	Sierra	Business	Republican	-1	Opposed	2	High	True		4	Business	Republican
+p007	Daniel	Male	p007	38.14531180437377	355.86065202462936	Raddatz	Doctor	Democrat	-1	Opposed	2	High	True		2	Doctor	Opposed
+p106	Mohamed	Male	p106	643.912252195698	370.0879874805093	Baker	Career Politician	Republican	-1	Opposed	2	High	True		6	Career Politician	Opposed
+p070	Hortense	Female	p070	647.3812920895497	19.3573277193597	Burroughs	Career Politician	Democrat	-1	Opposed	2	High	True		10	High	Career Politician
+p052	Andrea	Female	p052	31.25751169247728	0.9291553174481878	Rowe	Lawyer	Democrat	-1	Opposed	2	High	True		11	Opposed	Female
+p088	James	Male	p088	21.862211399320923	234.16212135596544	Nettles	Lawyer	Republican	-1	Opposed	2	High	True		5	Opposed	Male
+p124	Bobbie	Female	p124	59.49648573474414	27.297429678988784	Lance	Lawyer	Republican	-1	Opposed	2	High	True		10	Opposed	Republican
+p034	William	Male	p034	626.3393742182291	299.3648209547824	Galloway	Career Politician	Democrat	-1	Opposed	2	High	True		11	Career Politician	Opposed
+p061	Claudia	Female	p061	494.8915207747074	370.31386040655605	Ramsay	Business	Democrat	-1	Opposed	2	High	True		13	Business	Opposed

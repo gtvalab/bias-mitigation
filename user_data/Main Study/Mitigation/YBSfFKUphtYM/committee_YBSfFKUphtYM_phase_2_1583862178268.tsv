@@ -1,0 +1,11 @@
+	age	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p073	57	Gail	Female	p073	626.8280143460207	150.80908439823287	Hodges	Lawyer	Democrat	Neutral	10	Christian	True		1	Female	10
+p106	49	Betty	Female	p106	659.6175053588645	202.8130320488766	Carr	Career Politician	Republican	Neutral	8	Jewish	True		0	Female	8
+p134	44	James	Male	p134	241.61519274850332	168.92326623682501	Smith	Business	Democrat	Neutral	11	Christian	True		0	Male	11
+p024	54	Carl	Male	p024	278.471676560657	112.36963141676759	Weaver	Career Politician	Republican	Neutral	13	Christian	True		0	Male	13
+p142	34	Laura	Female	p142	606.3750121208366	80.7295735896029	Helfritz	Doctor	Democrat	In Favor	12	Christian	True		1	Female	12
+p136	47	Stephen	Male	p136	229.29688670265176	137.87910470496934	Foss	Business	Republican	In Favor	9	Christian	True		2	Male	9
+p082	38	Elizabeth	Female	p082	690.9179499417698	201.627816624794	Guevara	Lawyer	Democrat	Opposed	9	Christian	True		3	Female	9
+p087	34	Howard	Male	p087	204.5931826962868	87.10825029601787	Rundle	Lawyer	Democrat	Opposed	11	Christian	True		3	Male	11
+p003	55	Betty	Female	p003	638.1156580518702	20.196986648759236	Sanchez	Career Politician	Democrat	Opposed	14	Jewish	True		4	Female	14
+p051	53	Jackie	Female	p051	692.1234737285172	19.94035173587131	Nooner	Scientist	Democrat	Opposed	16	Christian	True		3	Female	16

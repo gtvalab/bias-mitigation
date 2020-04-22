@@ -1,0 +1,10 @@
+	participantId	interactionType	interactionTypeCount	interactionDurationSum
+169	pCrA474tRx8G	add_to_list_via_scatterplot_click	10	19049
+170	pCrA474tRx8G	axes_attribute_changed	4	0
+171	pCrA474tRx8G	change_attribute_distribution	7	0
+172	pCrA474tRx8G	change_attribute_distribution_results	7	0
+173	pCrA474tRx8G	filter_changed	8	0
+174	pCrA474tRx8G	mouseout	59	169820
+175	pCrA474tRx8G	mouseout_from_list	17	16524
+176	pCrA474tRx8G	mouseover	59	14858
+177	pCrA474tRx8G	mouseover_from_list	17	4429

@@ -1,0 +1,11 @@
+	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_abortion_after_6_weeks_cat	political_experience	political_experience_cat	selected	sizeVar	timesVisited	xVar	yVar
+p040	Bernice	Female	p040	18.887313634537108	304.84261212514986	Seery	Doctor	Democrat	-1	Opposed	1	Medium	True		3	Democrat	Opposed
+p070	Hortense	Female	p070	68.26940267030498	303.5439248970089	Burroughs	Career Politician	Democrat	-1	Opposed	2	High	True		1	Democrat	Opposed
+p142	Brooke	Female	p142	443.1956653233094	299.18640837517836	Bangert	Career Politician	Republican	-1	Opposed	2	High	True		1	Republican	Opposed
+p144	Ann	Female	p144	449.46686651381293	40.91900060660555	Flax	Career Politician	Republican	1	In favor	2	High	True		0	Republican	In favor
+p042	Autumn	Female	p042	26.694450810305735	10.767502736175969	Reynolds	Doctor	Democrat	1	In favor	1	Medium	True		1	Democrat	In favor
+p007	Daniel	Male	p007	47.495091294083046	245.28940433292794	Raddatz	Doctor	Democrat	-1	Opposed	2	High	True		0	Democrat	Opposed
+p078	Todd	Male	p078	476.1025752828117	53.73055899561929	Gutierrez	Doctor	Republican	1	In favor	1	Medium	True		1	Republican	In favor
+p081	Calvin	Male	p081	511.28296958662264	28.529379450243688	Goss	Doctor	Republican	1	In favor	2	High	True		0	Republican	In favor
+p016	Daniel	Male	p016	12.950990690032185	339.5369554730212	Jackson	Lawyer	Democrat	-1	Opposed	2	High	True		0	Democrat	Opposed
+p084	David	Male	p084	472.26903043838837	3.451558777173199	Jaime	Lawyer	Republican	1	In favor	0	Low	True		2	Republican	In favor

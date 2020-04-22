@@ -1,0 +1,11 @@
+	age	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p030	51	Roy	Male	p030	227.73214619697052	46.83466192379059	Tarango	Business	Republican	In Favor	13	Christian	True		3	Republican	13
+p059	49	Herbert	Male	p059	576.9759472731938	266.02805055204385	Martinez	Lawyer	Democrat	In Favor	7	Jewish	True		2	Democrat	7
+p037	46	Michael	Male	p037	151.65291233900808	156.81322722010242	Johnson	Business	Republican	Opposed	9	Christian	True		1	Republican	9
+p120	39	Jeannie	Female	p120	181.60064530843556	246.47493465372972	Metzger	Doctor	Republican	In Favor	7	Jewish	True		0	Republican	7
+p142	34	Laura	Female	p142	595.9722122068987	82.3950364816366	Helfritz	Doctor	Democrat	In Favor	12	Christian	True		4	Democrat	12
+p123	57	Johanna	Female	p123	160.5781639842816	332.12413174845614	Sprague	Career Politician	Republican	Opposed	4	Unaffiliated	True		0	Republican	4
+p051	53	Jackie	Female	p051	554.4067786799192	21.62184530561576	Nooner	Scientist	Democrat	Opposed	16	Christian	True		0	Democrat	16
+p106	49	Betty	Female	p106	204.56691848426277	205.52952428566016	Carr	Career Politician	Republican	Neutral	8	Jewish	True		0	Republican	8
+p073	57	Gail	Female	p073	539.7898340785927	183.68645740571378	Hodges	Lawyer	Democrat	Neutral	10	Christian	True		0	Democrat	10
+p071	52	Steve	Male	p071	401.2602606113382	142.52300340347315	Herzog	Educator	Democrat	Opposed	11	Christian	True		3	Educator	11

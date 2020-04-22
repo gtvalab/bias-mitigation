@@ -1,0 +1,11 @@
+	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	policy_strength_ban_abortion_after_6_weeks_cat	political_experience	political_experience_cat	selected	sizeVar	timesVisited	xVar	yVar
+p040	Bernice	Female	p040	48.7494822492871	33.56056629685078	Seery	Doctor	Democrat	-1	Opposed	1	Medium	True		2	Democrat	Female
+p117	Frances	Female	p117	438.17911841685054	57.299056912490016	Cianfrini	Doctor	Republican	1	In favor	2	High	True		2	Republican	Female
+p077	Tom	Male	p077	296.65750610408236	197.98175887764734	Moss	Doctor	Republican	0	Neutral	1	Medium	True		1	Neutral	Male
+p118	Rhonda	Female	p118	25.156463335313102	65.37537442815002	Redmond	Lawyer	Republican	-1	Opposed	0	Low	True		1	Opposed	Female
+p142	Brooke	Female	p142	61.036067263784325	44.30399660972512	Bangert	Career Politician	Republican	-1	Opposed	2	High	True		1	Opposed	Female
+p035	Robert	Male	p035	348.31140613685255	224.718877452666	Jones	Career Politician	Democrat	0	Neutral	2	High	True		2	Neutral	Male
+p072	Velma	Female	p072	622.6037490161633	43.591570802973905	Lopez	Career Politician	Democrat	1	In favor	2	High	True		0	In favor	Female
+p134	Barbra	Female	p134	304.9940830735091	18.032420258271756	Gillilan	Business	Republican	0	Neutral	2	High	True		2	Neutral	Female
+p085	Eric	Male	p085	33.97809673569226	209.1295938424874	Elliott	Lawyer	Republican	-1	Opposed	1	Medium	True		2	Opposed	Male
+p006	Stephen	Male	p006	629.4803321942081	269.29941571992697	Middleton	Doctor	Democrat	1	In favor	1	Medium	True		6	In favor	Male

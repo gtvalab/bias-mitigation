@@ -1,0 +1,11 @@
+	age	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p081	53	Yvonne	Female	p081	278.66752039711764	241.65634484339	Foster	Lawyer	Democrat	Neutral	10	Christian	True		0	53	Neutral
+p095	55	Frank	Male	p095	310.2273551168733	352.64637514110257	Hsu	Doctor	Republican	In Favor	6	Christian	True		0	55	In Favor
+p004	68	Donald	Male	p004	586.738853913109	77.32176797738501	Nadal	Doctor	Democrat	Opposed	7	Christian	True		1	68	Opposed
+p099	53	Donald	Male	p099	329.85250384012164	311.1298568722246	Kemper	Career Politician	Republican	In Favor	10	Christian	True		0	53	In Favor
+p123	57	Johanna	Female	p123	349.1014719451755	56.448322456321776	Sprague	Career Politician	Republican	Opposed	4	Unaffiliated	True		0	57	Opposed
+p001	52	George	Male	p001	285.80354594595184	208.63037114493847	Bowen	Lawyer	Democrat	Neutral	4	Jewish	True		2	52	Neutral
+p142	34	Laura	Female	p142	89.24626591442444	67.38961687085211	Helfritz	Doctor	Democrat	In Favor	12	Christian	True		1	In Favor	Female
+p013	48	Ryan	Male	p013	656.1661551814243	293.25552898054485	Curtis	Doctor	Democrat	Opposed	9	Christian	True		2	Opposed	Male
+p024	54	Carl	Male	p024	388.5986372803313	82.36923671703035	Weaver	Career Politician	Republican	Neutral	13	Christian	True		5	Neutral	13
+p106	49	Betty	Female	p106	331.65138257838055	155.5848969719278	Carr	Career Politician	Republican	Neutral	8	Jewish	True		4	Neutral	8

@@ -1,0 +1,11 @@
+	age	first_name	gender	id	jitter_x	jitter_y	last_name	occupation	party	policy_strength_ban_abortion_after_6_weeks	political_experience	religion	selected	sizeVar	timesVisited	xVar	yVar
+p066	46	Carey	Female	p066	711.5840382358614	116.5478567327709	Nguyen	Business	Democrat	Neutral	7	Christian	True		0	Business	Female
+p106	49	Betty	Female	p106	558.285188621986	130.3759921833394	Carr	Career Politician	Republican	Neutral	8	Jewish	True		3	Career Politician	Female
+p051	53	Jackie	Female	p051	218.1735731783995	79.11804599633794	Nooner	Scientist	Democrat	Opposed	16	Christian	True		1	Scientist	Female
+p093	51	Hattie	Female	p093	262.6473826727304	132.79349715066	Taylor	Business	Democrat	Opposed	7	Christian	True		3	51	Female
+p117	54	Raymond	Male	p117	304.9737106522566	263.7910059799384	Ruby	Scientist	Republican	In Favor	6	Christian	True		0	54	Male
+p059	49	Herbert	Male	p059	295.29213332098664	269.1616897191816	Martinez	Lawyer	Democrat	In Favor	7	Jewish	True		0	49	Male
+p024	54	Carl	Male	p024	286.92640806584546	277.09086489689156	Weaver	Career Politician	Republican	Neutral	13	Christian	True		1	54	Male
+p071	52	Steve	Male	p071	334.6769189355249	346.08975558425846	Herzog	Educator	Democrat	Opposed	11	Christian	True		2	52	Male
+p094	54	Don	Male	p094	556.871968323707	2.9539379983799066	Wright	Lawyer	Democrat	Neutral	13	Muslim	True		2	Democrat	Muslim
+p120	39	Jeannie	Female	p120	170.91915306981267	144.48714868568402	Metzger	Doctor	Republican	In Favor	7	Jewish	True		11	Republican	Female
